@@ -53,3 +53,11 @@ display: inline;
 .video {
   margin: 3em auto;
 }
+
+.interview-list {
+  list-style: none;
+}
+
+.half-image {
+  height: 325px;
+}
