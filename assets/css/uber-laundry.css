@@ -1,0 +1,63 @@
+#hr-top {
+  margin: 2em 0 4em 0;
+}
+
+p {
+  font-size: 20px;
+}
+
+li {
+  font-size: 20px;
+}
+
+h2 {
+  color: rgb(103, 101, 105);
+  margin-bottom: 0.5em;
+}
+
+.gray {
+  color: rgb(103, 101, 105);
+  font-weight: bold;
+}
+
+h1 {
+  /*margin-top: 1em;*/
+  font-weight: 550;
+  margin-bottom: 0.5em;
+}
+
+img {
+  /*box-shadow: 10px 0px 40px 10px #ddd;*/
+  display: block;
+  margin: 4em auto;
+  width: 940px;
+  /*height: 540px;*/
+}
+
+.lean-survey {
+  margin-top: 0;
+}
+
+.the-research {
+  margin-top: -1.5em;
+}
+
+.mid-fidelity {
+  text-align: center;
+}
+
+/*.high-fidelity {
+display: inline;
+}*/
+
+.video {
+  margin: 3em auto;
+}
+
+.interview-list {
+  list-style: none;
+}
+
+.half-image {
+  height: 325px;
+}
