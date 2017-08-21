@@ -30,7 +30,9 @@ img {
   /*box-shadow: 10px 0px 40px 10px #ddd;*/
   display: block;
   margin: 4em auto;
-  width: 940px;
+  width: 50%;
+  height: auto;
+  border-radius: 10px;
   /*height: 540px;*/
 }
 
